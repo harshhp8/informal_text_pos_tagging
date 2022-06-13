@@ -1,0 +1,914 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Gujarati">
+
+<Sentence id=1> વિદ્યાર્થીઓ_N_NN વચ્ચે_N_NST બોલે_V_VAUX છે_V_VAUX એટલે_CC_CCD ભણવામાં_N_NN મજા_N_NN નથી_RP_NEG આવતી_V_VAUX ઘોઘાટ_N_NN બોવ_JJ આવે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=2>ગુજરાતી_N_NN ઇતિહાસ_N_NN આવી_PR_PRL રીતે_RB તમે_PR_PRP જ_RP_RPD શીખવી_V_VAUX શકો_V_VAUX બીજું_QT_QTO કોઈ_DM_DMI નહિ_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=3>બહુ_QT_QTF જ_RP_RPD સરળ_JJ શબ્દોમાં_N_NN સચોટ_N_NN શિક્ષણ_N_NN  પદ્ધતિ_N_NN  અભિનંદન_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=4>ખુબ_JJ જ_RP_RPD સરસ_JJ ભણાવો_V_VAUX છો_V_VAUX તમારા_PR_PRP ભણાવેલા_V_VAUX સબ્દો_N_NN બધા_QT_QTF યાદ_N_NN રહી_V_VM જાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=5>પ્લે_N_NN સ્ટોરમાં_N_NN બતાવતા_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=6>સર_N_NN ટેલિગ્રામમાં_N_NN એપ્લિકેશનની_N_NN લિંક_N_NN મુકો_V_VAUX._RD_PUNC</Sentence>
+ 
+<Sentence id=7>અમે_PR_PRP મોબાઈલના_N_NN માધ્યમથી_N_NN પરીક્ષા_N_NN લેવાના_V_VAUX છીએ_V_VAUX._RD_PUNC </Sentence>
+
+<Sentence id=8>સ્પર્ધાત્મક_JJ પરીક્ષા_N_NN માટેના_PSP પેપર_N_NN બનાવવા_V_VAUX તમારી_PR_PRP મદદની_N_NN જરૂર_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=9>તમારો_PR_PRP સંપર્ક_N_NN કેવી_PR_PRQ રીતે_RB કરીયે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=10> શ્રી_JJ હમીરભાઇ_N_NNP રાઠોડની_N_NNP શૈલી_N_NN ખરેખર_JJ રોચક_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=11>માત્ર_JJ એક_QT_QTC જ_RP_RPD વાત_N_NN ખટકી_V_VM નેપોલિયન_N_NNP પહેલાં_QT_QTO કે_CC_CCS સમુદ્ર_N_NNP ગુપ્ત_N_NNP._RD_PUNC</Sentence> 
+
+<Sentence id=12>ભારતના_N_NNP ઇતિહાસને_N_NN નીચો_N_NST દેખાડનારા_V_VAUX અને_CC_CCD વિશ્વની_JJ સભ્યતાઓ_N_NN વિષે_PSP સાત_QT_QTC સદી_N_NN પહેલા_QT_QTO સુધી_RP_RPD અજ્ઞાન_JJ અંગ્રેજો_N_NN અને_CC_CCD યુરોપિયનોના_N_NN રવાડે_V_VAUX ચડી_V_VM ._RD_PUNC</Sentence>
+
+<Sentence id=13>હજુ_N_NST આપણે_PR_PRP સમુદ્ર_N_NNP ગુપ્તને_N_NNP ભારતનો_N_NNP નેપોલિયન_N_NNP કહેવાનો_V_VAUX  ._RD_PUNC</Sentence>
+
+<Sentence id=14>જો_RP_RPD કહેવું_V_VAUX જ_RP_RPD હોય_V_VAUX તુલના_N_NN કરાવી_V_VAUX જ_RP_RPD હોય_V_VAUX તો_RP_RPD નેપોલિયનને_N_NNP કદાચ_JJ ફ્રાન્સનો_N_NNP સમુદ્ર_N_NNP ગુપ્ત_N_NNP કહી_V_VM શકાય_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=15>પણ_CC_CCD વાસ્તવમાં_N_NN તે_PR_PRP સમુદ્ર_N_NNP ગુપ્ત_N_NNP ચંદ્ર_N_NNP ગુપ્ત_N_NNP કે_CC_CCS પુષ્યમિત્ર_N_NNP શુંગ_N_NNP જેવા_PR_PRL આપણા_PR_PRP વીર_JJ સમ્રાટો_N_NN સામે_PSP વામણો_JJ છે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=16>રાઠોડ_N_NNP સાહેબ_N_NN નમ્ર_JJ વિનંતી_V_VAUX કે_CC_CCS આપણી_PR_PRP યુવા_JJ પેઢીમાં_N_NN આપણી_PR_PRP અસ્મિતાનું_N_NNP ગૌરવ_N_NN પ્રેરો_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=17>તો_RP_RPD આપણા_PR_PRP દ્વારા_PSP અપાતું_PR_PRF શિક્ષણ_N_NN આ_DM_DMD દેશ_N_NN માટે_PSP બહુ_JJ મોટી_JJ ધરોહર_N_NN બની_V_VM જશે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=18>સર_N_NN તમે_PR_PRP જે_PR_PRL બુક_N_NN બતાવી_V_VAUX એ_DM_DMD બુક_N_NN જોતી_V_VM હોય_V_VAUX તો_RP_RPD મળી_V_VM જાસે_V_VAUX ._RD_PUNC</Sentence>
+  
+<Sentence id=19>સર_N_NN તમે_PR_PRP જે_PR_PRL બૂક_N_NN બતાવી_V_VAUX તે_PR_PRL ક્યાંથી_PR_PRQ મલસે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=20>ખુબ_JJ જ_RP_RPD સરસ_JJ._RD_PUNC</Sentence>
+
+<Sentence id=21>કૌટીલય_N_NN મૌર્ય_N_NNP કાળમાં_N_NN થઈ_V_VAUX ગયા_V_VAUX ગુપ્ત_N_NNP કાળમાં_N_NN નૈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=22>વાહ_RP_INJ વાહ_RP_INJ સર_N_NN અમારા_PR_PRP માટે_PSP સોનાનો_JJ  સૂરજ_N_NNP ઉગ્યો_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=23>વાહ_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=24>ભુક્કા_JJ બોલાવી_V_VAUX દીધા_V_VAUX સાહેબ_N_NN બંધારણ_N_NN ફેકલ્ટી_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=25>ભારત_N_NNP અકાદમીના_N_NN લીધે_PSP જ_RP_RPD અમારા_PR_PRP જેવા_PR_PRL છેવાડાના_JJ ગામના_N_NN પરિક્ષાર્થીઓને_N_NN ખૂબ_JJ જ_RP_RPD ઉપયોગી_N_NN થાય_V_VAUX છે_V_VAUX જય_N_NN હિન્દ_N_NN._RD_PUNC</Sentence>
+   
+<Sentence id=26>બંધારણનો_N_NN પ્રથમ_QT_QTO વિચાર_N_NN ઇસ_N_NN  મા_N_NN લોક_N_NNP માન્યતિલક_N_NNP આવ્યો_V_VAUX હતો_V_VAUX કે_CC_CCS "_RD_PUNC._RD_PUNC</Sentence>
+ 
+<Sentence id=27>નમસ્કાર_N_NN મિત્રો_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=28>આજે_N_NST આપણી_PR_PRP ભારત_N_NNP અકાદમીની_N_NN એપ્લિકેશન_N_NN અપડેટ_N_NN કરવામાં_V_VAUX આવી_V_VAUX છે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=29>તમારા_PR_PRP બધા_QT_QTF જ_RP_RPD સોલ્યુશન_N_NN એમાં_RP_RPD થઈ_V_VAUX ગયા_V_VAUX છે_V_VAUX જેમકે_CC_CCS ટેસ્ટમાં_N_NN  અને_CC_CCD બીજા_QT_QTC ફોનમાં_N_NN     એરરતો_N_NN જલ્દીથી_RB પ્લેસ્ટોરમાં_N_NN જઈને_V_VM આપણી_PR_PRP એપ_N_NN અપડેટ_N_NN કરો_V_VAUX._RD_PUNC</Sentence>
+ 
+<Sentence id=30>આપના_PR_PRP એકજ_QT_QTC વિદેઓમાં_N_NN  અમને_PR_PRP  અમારા_PR_PRP ઘણા_QT_QTF બધા_QT_QTF પ્રશ્નોના_N_NN જવાબ_N_NN મળે_V_VAUX._RD_PUNC</Sentence>   
+
+<Sentence id=31>એમકે_CC_CCS  સ્ટમપની_N_NN લંબાઈ_N_NN  પીચની_N_NN લંબાઈ_N_NN બડાનું_N_NN વજન_N_NN એકજ_QT_QTC  સમયમાં_N_NN  અનેક_QT_QTF માહિત_N_NN અમને_PR_PRP આસાનીથી_JJ મળે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=32>સર_N_NN તમે_PR_PRP જે_PR_PRL પણ_CC_CCD સવાલના_N_NN જવાબ_N_NN આપો_V_VAUX છો_V_VAUX  એની_PR_PRL સાથે_PSP આપને_PR_PRP જે_PR_PRL માહિતી_N_NN ખ્યાલ_N_NN હોઈએ_V_VAUX તે_PR_PRL  વીડિઓમાં_N_NN જણાવી_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=33>જેમકે_CC_CCS  ક્રિકેટની_N_NN રમતમાં_N_NN કેટલા_QT_QTF પ્લેયર_N_NN હોય_V_VAUX છે_V_VAUX તો_RP_RPD એની_PR_PRL સાથે_PSP આપને_PR_PRP જે_PR_PRL માહિતી_N_NN ખ્યાલ_N_NN હોય_V_VAUX એ_DM_DMD જણાવી_V_VAUX._RD_PUNC</Sentence>
+ 
+<Sentence id=34>બસ_JJ આતુલું_QT_QTF કારશો_V_VAUX તો_RP_RPD અમને_PR_PRP  ઘણી_JJ મદદ_N_NN થશે_V_VAUX  હું_PR_PRP આપના_PR_PRP રેપ્લ્યની_N_NN  રાહ_V_VAUX જોઇસ_V_VAUX આપનો_PR_PRP  શોધો_JJ સાદો_JJ વિદ્યાર્થી_N_NN._RD_PUNC </Sentence> 
+
+<Sentence id=35>ખૂબ_JJ સરસ_N_NN._RD_PUNC</Sentence> 
+
+<Sentence id=36>તમે_PR_PRP જે_PR_PRL ફોટો_N_NN મૂકીને_V_VM સમજાવો_V_VAUX છો_V_VAUX તે_PR_PRL ટેકનિક_N_NN ખૂબ_JJ જ_RP_RPD સારી_JJ છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=37>"_RD_PUNCઆ_DM_DMD  રીગ_N_NN પૃથ્વીના_N_NNP  ખંડનુ_N_NN પ્રતિનિધિત્વ_JJ કરે_V_VM છે_V_VAUX  ભૂરૂં_JJ સકૅલ_N_NN  યુરોપ_N_NNBP  પીળું_JJ સકૅલ_N_NN  એશિયા_N_NNP   કાળું_JJ સકૅલ_N_NN  આફ્રિકા_N_NNP   લીલી_JJ સકૅલ_N_NN  ઓસ્ટ્રેલિયા_N_NNP   લાલ_JJ સકૅલ_N_NN  અમેરિકા_N_NNP  સ્વીકાર_N_NN સૌપ્રથમ_QT_QTO  અેન્ટવપૅ_N_NN ઓલિમ્પિકમાં_N_NN થયો_V_VAUX"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=38>ખૂબ_JJ સરસ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=39>કોણ_PR_PRQ ક્યારે_N_NST મળી_V_VM જશે_V_VAUX ખબર_N_NN જ_RP_RPD નથી_RP_NEG એવું_PR_PRL મારા_PR_PRP જીવનમાં_N_NN પણ_CC_CCD થયું_V_VAUX જ_RP_RPD છે_V_VAUX   સાચી_JJ વાત_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=40>સપ્ટેમ્બર_N_NN શિક્ષક_N_NN દિવસ_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=41>સંજય_N_NNP કાકા_N_NN મારા_PR_PRP ખ્યાલથી_N_NN તમારે_PR_PRP ભગવાનની_N_NN મેર_N_NN કહેવાય_V_VAUX સાચેજ_JJ જય_N_NN ભવાની_N_NNP ._RD_PUNC</Sentence>
+
+<Sentence id=42>સંજય_N_NNP સર_N_NN સલામ_N_NN છે_V_VAUX સાહેબ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=43>સ્વામી_N_NNP વિવેકાનંદ_N_NNP મળ્યા_V_VAUX ફરી_RB પાછા_PSP બધા_QT_QTF સોલ્યુશન_N_NN એક_QT_QTC જ_JJ જગ્યાએ_N_NN હસ્તા_N_NN જીવન_N_NN જીવવાના_N_NN  ઘણુ_QT_QTF જીવો_N_NN વાલા_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=44>સંજય_N_NNP સર_N_NN થેકયુ_N_NN._RD_PUNC</Sentence>
+    
+<Sentence id=45>બધા_QT_QTF દિવેલ_N_NN પીધેલા_V_VAUX હશે_V_VAUX હું_PR_PRP નઈ_RP_NEG ._RD_PUNC</Sentence>
+
+<Sentence id=46>ભાઈ_N_NN તમે_PR_PRP તો_RP_RPD  ખરેખા_RP_INJ જીવનને_N_NN સરળ_JJ  માનવી_V_VAUX દીધું_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=47>અભિમાન_N_NN નો_RP_NEG કરાય_V_VAUX ઓકે_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=48>તમારા_PR_PRP જેવા_PR_PRL ગુરુ_N_NN આખી_JJ દુનીયામા_N_NN ક્યાય_V_VAUX   નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=49>સાચું_JJ કહું_V_VAUX તો_RP_RPD સંજય_N_NNP રાવલ_N_NNP સાહેબ_N_NN જેવા_PR_PRL નેતા_N_NN જોવે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=50>ભાઈ_N_NN ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=51>ગુજુભાઈ_N_NNP ધ_N_NN ગ્રેટ_JJ મુવી_N_NN મુકો_V_VAUX ને_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=52>"_RD_PUNCઆ_DM_DMD શું_PR_PRQ કરો_V_VAUX છો_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=53> નાગાઈ_N_NN"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=54> સુરત_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=55>ગુજરાતિ_N_NN મૂવિ_N_NN લખો_V_VAUX કાય_DM_DMI અને_CC_CCD આવે_V_VM કાય_DM_DMI._RD_PUNC</Sentence>
+
+<Sentence id=56>સુંદર_JJ ભાવુક_N_NN મુવી_N_NN છે_V_VAUX  જગુદાદા_N_NNP જે_PR_PRL મોટરસાયકલ_N_NN ચલાવે_V_VAUX છે_V_VAUX એવુ_RP_RPD જાવા_V_VAUX મોટરસાયકલ_N_NN મારા_PR_PRP પાસે_PSP પણ_CC_CCD છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=57>જીવનમાં_N_NN ક્યાંક_PR_PRQ શીખવાડીને_V_VAUX જઈએ_V_VAUX એવું_PR_PRL મૂવી_N_NN  છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=58>બહુજ_JJ સરસ_JJ ફિલ્મ_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=59>આ_DM_DMD ફિલ્મમાં_N_NN કવિ_N_NN શ્રી_JJ દલપતરામ_N_NNP  વિશે_PSP કહે_V_VAUX છે_V_VAUX કે_CC_CCS ઓળખતી_V_VAUX નથી_RP_NEG અને_CC_CCD ઓળખવા_V_VAUX માંગતી_V_VAUX પણ_CC_CCD નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=60>ગુજરાતી_N_NN હોવ_V_VAUX અને_CC_CCD દલપતરામને_N_NNP ન_RP_NEG  ઓળખો_V_VAUX તો_RP_RPD તમે_PR_PRP ગુજરાતી_N_NN જ_JJ નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=61>વા_RP_INJ બગા_N_NNP સાહેબ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=62>દરિયા_N_NN છોરુ_N_NN ફીલ્મ_N_NN જોવુ_V_VAUX છે_V_VAUX સુપર_JJ ફિલ્મ_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=63>"_RD_PUNCડો_N_NN ગોસ્વામી_N_NNP"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=64>રણજીત_N_NNP ઠાકોર_N_NNP ઇસ્લામપુરા_N_NNP ગામ_N_NN._RD_PUNC_RD_PUNC</Sentence>
+
+<Sentence id=65>હા_RP_INJ વિક્રમ_N_NNP ઠાકોર_N_NNP હાવજ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=66>કોણ_PR_PRQ હલાવે_V_VAUX લીંબડીને_N_NN કોણ_PR_PRQ ઝુલાવે_V_VAUX પીપળી_N_NN ભાગ_N_NN બનાવો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=67>આવી_PR_PRL જ_RP_RPD ફીલમ_N_NN બનાવો_V_VAUX જોરદાર_JJ ચાલસે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=68>હા_RP_INJ મારા_PR_PRP ઠાકોર_N_NNP હા_RP_INJ ._RD_PUNC</Sentence>
+
+
+<Sentence id=69>વિક્રમ_N_NNP ઠાકોર_N_NNP તમારી_PR_PRP મોજ_N_NN._RD_PUNC</Sentence>
+
+
+<Sentence id=70>હા_RP_INJ   મારો_PR_PRP   ઠાકોર_N_NNP   સમાજ_N_NN._RD_PUNC</Sentence>
+
+
+<Sentence id=71>આપઙો_PR_PRP મેર_N_NN પટસે_V_VAUX._RD_PUNC</Sentence>
+
+
+<Sentence id=72>હા_RP_INJ મારા_PR_PRP ઠાકોર_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=73>હા_RP_INJ હાવજ_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=74>હા_RP_INJ ઠાકોર_N_NNP હા_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=75>હા_RP_INJ  હાવજ_N_NN હા_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=76>હા_RP_INJ મારા_PR_PRP હાવજ_N_NN હા_RP_INJ જોઈએ_V_VAUX કેમ_PR_PRI._RD_PUNC</Sentence>
+
+
+<Sentence id=77> ગજખછધ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=78>હા_RP_INJ ઠાકોર_N_NNP હા_RP_INJ સુપર_JJ સોંગ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=79>હા_RP_INJ હાવજ_N_NN હા_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=80> સપોર્ટ_N_NN કરતા_V_VAUX રહો_V_VAUX._RD_PUNC</Sentence>  
+ 
+<Sentence id=81>સોંગને_N_NN અહીં_N_NST પણ_CC_CCD લાઇક_N_NN કરો_V_VAUX અને_CC_CCD મારી_PR_PRP ચેનલને_N_NN પણ_CC_CCD સબકાઈબ_N_NN કરજો_V_VAUX ._RD_PUNC</Sentence>
+
+
+<Sentence id=82>સરસ_JJ ગીત_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=83>મારા_PR_PRP ઠાકોરભાઈઓ_N_NN હવે_N_NST તો_RP_RPD સમાજમાં_N_NN સંસ્કારોની_N_NN વાત_N_NN જોઈએ_V_VAUX  ._RD_PUNC</Sentence>
+
+<Sentence id=84>ગુજરાતી_N_NN મુવીમાં_N_NN આ_DM_DMD એક_QT_QTC જ_RP_RPD  મુવી_N_NN ખરેખર_JJ જોરદાર_JJ છે_V_VAUX એક_QT_QTC એક_QT_QTC શબ્દ_N_NN સમજવા_V_VAUX લાયક_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=85>ખરેખર_JJ ખુબ_JJ સરસ_JJ મુવી_N_NN છે_V_VAUX ફેમિલી_N_NN સાથે_PSP જોવા_V_VM લાયક_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=86>અમે_PR_PRP રાહ_V_VAUX જોઈએ_V_VAUX છીએ_V_VAUX બીજા_QT_QTC ભાગનો_N_NN તો_RP_RPD પ્લીઝ_N_NN તમે_PR_PRP જલ્દીથી_RB બીજો_QT_QTC ભાગ_N_NN લઈને_V_VM આવો_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=87>"_RD_PUNCમસ્ત_JJ વિચાર_N_NN ધારા_N_NN છે_V_VAUX   વેરિ_JJ ઇન્સપિરેશન_N_NN છે_V_VAUX હો_RP_INJ "._RD_PUNC</Sentence>
+
+<Sentence id=88>આ_DM_DMD ફિલ્મ_N_NN નિર્માતાનો_N_NN   શુ_PR_PRQ વાત_N_NN છે_V_VAUX સાહેબ_N_NN._RD_PUNC</Sentence>
+ 
+<Sentence id=89>ટુકમાં_JJ ઘણુ_QT_QTF શિક્ષણ_N_NN મળ્યું_V_VAUX._RD_PUNC</Sentence>
+ 
+<Sentence id=90>ધન્યવાદ_N_NN આવીજીવનની_N_NN સચ્ચાઈ_N_NN સમજાવવા_V_VAUX માટે_PSP અમને_PR_PRP ગમ્યું_V_VM મસ્ત_JJ ફિલ્મ_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=91>ભાગ_N_NN  ક્યારે_N_NST રજૂ_V_VM થવાનો_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+      
+<Sentence id=92>ખુબ_JJ જ_RP_RPD સુંદર_JJ અદભૂત_JJ ઈમેજથી_N_NN વધારે_QT_QTF  જરૂરી_V_VM કાઈ_DM_DMI નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=93>નીશબ્દ_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=94>બહુ_JJ જ_JJ સરસ_JJ અંભિનંદન_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=95>બહુ_JJ ખુબ_JJ જ_JJ સરસ_JJ રીતે_RB જીવન_N_NN જીવવાની_N_NN રીત_N_NN  સિખવે_V_VAUX છે_V_VAUX આ_DM_DMD ફિલ્મ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=96>આ_DM_DMD પ્રકારની_N_NN મૂવી_N_NN બનાવવી_V_VAUX એ_DM_DMD રચનાત્મકતા_N_NN છે_V_VAUX અને_CC_CCD આ_DM_DMD મૂવીએ_N_NN સાબિત_N_NN કર્યું_V_VAUX છે_V_VAUX કે_CC_CCS આપણે_PR_PRP આ_DM_DMD પ્રકારની_N_NN મૂવી_N_NN પણ_CC_CCD બનાવી_V_VAUX શકીએ_V_VAUX છીએ_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=97>મેં_PR_PRP આજે_N_NST જ_RP_RPD આ_DM_DMD મૂવી_N_NN જોઈ_V_VAUX અને_CC_CCD ખરેખર_JJ હું_PR_PRP ખૂબ_JJ ખુશ_JJ થયો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=98>ગુજરાતી_N_NN ફિલ્મ_N_NN ઉદ્યોગમાં_N_NN ઘણી_JJ પ્રતિભા_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+ 
+ <Sentence id=99>શાનદાર_JJ ._RD_PUNC</Sentence>
+
+<Sentence id=100>બહુજ_JJ સરસ_JJ ગુજરાતી_N_NN ફીચર_N_NN ફિલ્મ_N_NN છે_V_VAUX અભિનય_N_NN અને_CC_CCD સંદેશ_N_NN બહુજ_JJ સુંદર_JJ છે_V_VAUX લોકેશન_N_NN ક્યાંનું_PR_PRQ છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=101>ખુબ_JJ ખુબ_JJ ધન્યવાદ_N_NN ._RD_PUNC</Sentence> 
+ 
+<Sentence id=102> સ્વચ્છતા_N_NN અંગેની_PSP જાગૃતિ_N_NNP ભણતરની_N_NN સમસ્યા_N_NN નરસિંહ_N_NNP મહેતાના_N_NNP ભજનને_N_NN ફિલ્મના_N_NN વિષય_N_NN વસ્તુ_N_NN સાથે_PSP  સમન્વય_N_NN અને_CC_CCD છોટુનો_N_NN અભિનય_N_NN વાહ_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=103>બવજ_JJ સરસ_JJ ફિલ્મ_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=104>ખૂબ_JJ સરળ_JJ ભાષામાં_N_NN અદભુત_JJ સંદેશો_N_NN સમાજ_N_NN માટે_PSP ખૂબ_JJ સરસ_JJ ._RD_PUNC</Sentence>
+
+<Sentence id=105>ખુબજ_JJ સરસ_JJ ફિલ્મ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=106>બહુ_JJ સરસ_JJ._RD_PUNC</Sentence> 
+
+<Sentence id=107>જોરદાર_JJ મુવી_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=108>સરસ_JJ પિચર_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=109>સુપરસ્ટાર_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=110>સરસ_JJ મારા_PR_PRP ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=111>આ_DM_DMD મુવી_N_NN કયારે_N_NST  થએલ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=112>આવુ_RP_RPD જ_RP_RPD કરે_V_VM છે_V_VAUX  ના_RP_NEG ડ્રાઈવર_N_NN સિગ્નલ_N_NN બંધ_N_NN હોવા_V_VAUX છતા_CC_CCD બસને_N_NN દોડવા_V_VAUX માંડે_V_VAUX છે_V_VAUX ચોદયાઓ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=113>વિકાસ_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=114>મોદી_N_NNP છે_V_VAUX મુમકિન_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=115>નફો_N_NN ઓછો_JJ રાખવામાં_V_VAUX તો_RP_RPD તો_RP_RPD ચાલે_V_VAUX રાતો_N_NN રાત_N_NN કરોડ_QT_QTC પતી_N_NN થવૂ_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=116>કચ્છમાં_N_NNP દુકાન_N_NN કરો_V_VAUX તેજી_N_NN એ_DM_DMD તેજી_N_NN છે_V_VAUX અહીંયા_N_NST._RD_PUNC</Sentence>
+
+<Sentence id=117>હવે_N_NST ભૂલે_N_NN ચુકે_N_NN પણ_CC_CCD  ને_N_NN વોટ_N_NN નથી_RP_NEG આપવો_V_VAUX._RD_PUNC</Sentence>
+ 
+ <Sentence id=118>માપસર_JJ નફો_N_NN લો_V_VAUX તો_N_NN ધંધો_N_NN ચાલે_V_VAUX આજ_N_NST સુધી_RP_RPD ટેક્ષીમાં_N_NN ખુબજ_JJ ચોરી_N_NN કરી_V_VM છે_V_VAUX  હવે_N_NST  તકલીફ_N_NN પડે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=119>સોનાના_N_NN વેપારીઓએ_N_NN આજ_N_NST સુધી_RP_RPD ખુબજ_JJ નફો_N_NN કરી_V_VM કરોડોના_QT_QTC બંગલા_N_NN મોંઘી_JJ ગાડીઓ_N_NN વસાવી_V_VAUX  જલસા_N_NN કરે_V_VM છે_V_VAUX હવે_N_NST મંદી_N_NN નડે_V_VM છે_V_VAUX આમાં_PR_PRL મોદી_N_NNP સરકારનો_N_NN કોઈ_DM_DMI દોષ_N_NN નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=120>જયાં_N_NST સુધી_RP_RPD રોકડ_N_NN રકમ_N_NN બજારમાં_N_NN ન_RP_NEG ફરતી_RB થાય_V_VAUX ત્યાં_N_NST સુધી_RP_RPD આમ_PR_PRL જ_JJ ચાલુ_V_VM રહેશે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=121>ભાજપ_N_NN સરકારે_N_NN તો_N_NN કેટલાયના_QT_QTF અરમાન_N_NN ઉપર_N_NST પાણી_N_NN નહી_RP_NEG પણ_CC_CCD બુલલૉડર_N_NN ફેરવી_V_VAUX દિધુ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=122>સાચી_JJ વાત_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=123>હે_RP_INJ પ્રભુ_N_NN ટૂંકમાં_JJ અહીં_N_NST પોલીસ_N_NN સીબીઆઈ_N_NN ઈડી_N_NN અને_CC_CCD એંનએસએના_N_NN દરોડા_N_NN પડશે_V_VAUX અને_CC_CCD આ_DM_DMD તમામ_QT_QTF એન્ટીનેશનલોને_N_NN કાળા_JJ પાણીની_N_NN સજા_N_NN થશે_V_VAUX તો_RP_RPD ._RD_PUNC</Sentence>
+
+<Sentence id=124> આ_DM_DMD તમામ_QT_QTF લોકોને_N_NN હિંમત_N_NN આપો_V_VAUX"_RD_PUNC._RD_PUNC</Sentence>
+ 
+<Sentence id=125>લોકોને_N_NN ખાવાના_N_NN ફાંફા_JJ પડી_V_VAUX રહ્યા_V_VAUX છે_V_VAUX ને_N_NN સાહેબ_N_NN વર્ડ_N_NN ટુર_N_NN પર_PSP છે_V_VAUX બીજું_QT_QTO બધું_QT_QTF સારું_JJ કર્યુ_V_VAUX સરકારે_N_NN એમાં_RP_RPD ના_RP_NEG નહીં_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=126>મંદી_N_NN છે_V_VAUX એ_DM_DMD પણ_CC_CCD જીએસટી_N_NN અને_CC_CCD નોટબંદીને_N_NN લીધે_PSP પણ_CC_CCD સરકાર_N_NN માનવા_V_VAUX તૈયાર_PSP નથી_RP_NEG ને_N_NN પછી_CC_CCD વારેઘડીએ_JJ રેપો_N_NN રેટ_N_NN ઓછો_QT_QTF કરશે_V_VAUX પણ_CC_CCD જે_PR_PRL કરવાનું_V_VAUX છે_V_VAUX એ_DM_DMD નહીં_RP_NEG કરે_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=127>પણ_CC_CCD આ_DM_DMD નોટબંદી_N_NN પછી_CC_CCD જીએસટીએ_N_NN સામાન્ય_JJ માણસની_N_NN પથારી_N_NN ફેરવી_V_VAUX નાખી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=128>વહેવાર_N_NN ખોટો_JJ  પડી_V_VAUX રહ્યો_V_VAUX છે_V_VAUX ધંધા_N_NN નથી_RP_NEG તો_N_NN આપવું_V_VAUX શું_PR_PRQ અને_CC_CCD લેવું_V_VAUX શું_PR_PRQ ._RD_PUNC</Sentence> 
+
+<Sentence id=129>છોકરાના_N_NN ભણતર_N_NN રોજના_N_NN ખર્ચા_N_NN ભાંડુ_N_NN પગાર_N_NN દવાદારુ_N_NN અણધાર્યા_JJ ખર્ચા_N_NN આ_DM_DMD બધું_QT_QTF કેમ_PR_PRI પુરું_RB કરવું_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=130>સેઠને_N_NN પરિવાર_N_NN હોત_V_VAUX તો_N_NN ખબર_N_NN પડત_V_VAUX કે_CC_CCS કેમ_PR_PRI મેનેજ_N_NN કરવું_V_VAUX પડે_V_VM કેટલાય_QT_QTF લેણદારોને_N_NN જવાબ_N_NN ન_RP_NEG આપી_V_VAUX શકતા_V_VAUX હોવાથી_N_NST આપઘાત_N_NN કરી_V_VM રહયા_V_VAUX છે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=131>કોઈ_DM_DMI હાથ_N_NN ઊંચા_V_VAUX કરી_V_VM દે_V_VAUX છે_V_VAUX બોલો_N_NST શું_PR_PRQ કરવું_V_VAUX  આ_DM_DMD બધું_QT_QTF સામાન્ય_JJ અને_CC_CCD મધ્યમ_JJ વર્ગ_N_NN ભોગવી_V_VAUX રહ્યો_V_VAUX છે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=132>ખરો_JJ વિકાસ_N_NN બાકી_N_NST અમિત_N_NNP શાહના_N_NNP દિકરાનો_N_NN થયો_V_VAUX છે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=133>સાચી_JJ વાત_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=134>સાચી_JJ વાત_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=135>કોઇના_DM_DMI બાપની_N_NN તાકાત_N_NN નથી_RP_NEG મોદીજીનો_N_NNP વાળ_N_NN પણ_CC_CCD વાંકો_V_VM કરવાની_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=136>મોદી_N_NNP ફાતઙો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=137>મોદીજી_N_NNP સિંહ_N_NNP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=138>મોદીને_N_NNP મારો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=139>મોદી_N_NNP સિંહ_N_NNP છે_V_VAUX અને_CC_CCD કુતરાં_N_NNP તો_RP_RPD ભોકે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=140>કૂતરા_N_NNP તો_RP_RPD ધમકી_V_VAUX આપયા_V_VAUX કરે_V_VM  કૂતરાઓથી_N_NNP કય_DM_DMI ફેર_N_NN પડે_V_VM નય_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=141>મોદી_N_NNP તો_RP_RPD સીહં_N_NNP છે_V_VAUX ગૂજરાતનો_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=142>મારુ_PR_PRP રાષટિય_JJ ફુલ_N_NN કમળ_N_NNP છે_V_VAUX તો_RP_RPD કમળ_N_NNP જ_RP_RPD રહે_V_VAUX છે_V_VAUX નરેન્દ્રમોદી_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=143>મોદીને_N_NNP મારવા_V_VAUX વાળો_N_NN હવૈ_N_NST એમની_PR_PRP માને_N_NN પેટે_N_NN જનમ_N_NN લેતો_V_VAUX હશે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=144>મોદી_N_NNP ભાજપના_N_NN  અને_CC_CCD ગુજરાતના_N_NNP  સાન_JJ છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=145>જય_N_NN હિન્દ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=146>મોદી_N_NNP સીહ_N_NNP કેવાય_V_VAUX કુતરાઓનુ_N_NNP કામ_N_NN નથી_RP_NEG મોદીને_N_NNP મારવા_V_VAUX બીજો_QT_QTC જનમ_N_NN લેવો_V_VAUX પડે_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=147>મોદી_N_NNP સીહ_N_NNP કેવાય_V_VAUX કુતરાઓનુ_N_NNP કામ_N_NN નથી_RP_NEG મોદીને_N_NNP મારવા_V_VAUX બીજો_QT_QTC જનમ_N_NN લેવો_V_VAUX પડે_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=148>"_RD_PUNCજે_PR_PRL દિવસ_N_NN મોદી_N_NNP નઈ_RP_NEG હોય_V_VAUX ને_N_NN અ_DM_DMD દાડે_N_NN સાહેબ_N_NN પાકિસ્તાનના_N_NNP મુસ્લીમોનુ_N_NN રાજ_N_NN હસે_V_VAUX આપણા_PR_PRP ભારતમાં_N_NNP"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=149>મોદી_N_NNP સિંહ_N_NNP છે_V_VAUX કૂતરાં_N_NNP તો_RP_RPD ભોક_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+ 
+<Sentence id=150>સિંહ_N_NNP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=151>અમારા_PR_PRP કિસાનોના_N_NN રાજા_N_NN છે_V_VAUX મોદી_N_NNP સાહેબ__N_NN કોની_PR_PRQ માની_N_NN તાકાત_N_NN છે_V_VAUX ધમકી_N_NN આપે_V_VAUX જય_N_NN જય_N_NN મોદી_N_NNP સરકાર_N_NN જય_N_NN ભવાની_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=152>મોદીજીને_N_NNP  કોઈ_DM_DMI  કાઈ_DM_DMI  ન_RP_NEG   કરી_V_VM  શકે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=153>મોદી_N_NNP સિહ_N_NNP છે_V_VAUX ધમકીની_N_NN તો_RP_RPD વાત_N_NN જ_RP_RPD રેવા_V_VAUX દો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=154>હા_RP_INJ હાવજ_N_NN હા_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=155>આશાપુરાના_N_NNP આશીર્વાદ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=156>મોદી_N_NNP તો_RP_RPD સિંહ_N_NNP સે_V_VAUX કુતરાં_N_NNP તો_RP_RPD ભસા_V_VAUX કરે_V_VM કોઈ_DM_DMI ફેર_N_NN ના_RP_NEG પડે_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=157> 56ની_QT_QTC છાતી_N_NN વાડાની_N_NN છાતી_N_NN વાડાથી_N_NN નહિ_RP_NEG ડરે_V_VM સિંહ_N_NNP તો_RP_RPD સિંહ_N_NNP કહેવાય_V_VAUX ગુજરાતનો_N_NNP સિંહ_N_NNP અટલે_CC_CCD મોદીજી_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=158>મોદી_N_NNP સાહેબ_N_NN સિંહ_N_NNP છે_V_VAUX કોઇની_DM_DMI તાકાત_N_NN નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=159>આ_DM_DMD વાત_N_NN ખૂબ_JJ જ_JJ ગંભીર_N_NN છે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=160> ભારતે_N_NNP આ_DM_DMD બાબતને_N_NN ગંભીરતાથી_JJ લેવી_V_VM જોઇએે_V_VAUX ._RD_PUNC</Sentence>
+ 
+<Sentence id=161>જો_RP_RPD એવું_PR_PRL થાય_V_VAUX તો_N_NN ભારતે_N_NNP જેમ_PR_PRL કોહિનૂર_N_NN ગુમાવ્યો_V_VAUX છે_V_VAUX તેમ_PR_PRL ફરી_RB એકવાર_QT_QTC આપડે_PR_PRP  રત્ન_N_NN રુપી_JJ એવા_PR_PRL ભારત_N_NNP રત્નને_N_NN ગુમાવવાનો_V_VAUX આરો_N_NN આવશે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=162>મોદી_N_NNP સરકાર_N_NN જિનદાબાદ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=163>મોદી_N_NNP સિહ_N_NNP છે_V_VAUX અને_CC_CCD ફાતળા_N_NN તો_RP_RPD બોલ્યા_V_VAUX કરે_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=164>અમારા_PR_PRP ગુજરાતનુ_N_NNP ગૌરવ_N_NN પુરા_RB ભારત_N_NNP નહીં_RP_NEG વિશ્વમાં_N_NN કયુ_V_VAUX છે_V_VAUX    ભારત_N_NNP સેવક_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=165>પારકી_JJ આશા_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=166>બ્લોરની_N_NN હવા_N_NN  મોત_N_NN શબ્દ_N_NN સુધી_RP_RPD  પહોંચી_V_VAUX  ગયો_V_VAUX  નવાઈની_N_NN  વાત_N_NN  છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=167>મોદી_N_NNP સર્વશ્રેષ્ઠ_JJ વડાપ્રધાન_N_NN છે_V_VAUX એમના_PR_PRP જેવો_PR_PRL  કોઈ_DM_DMI હજુ_N_NST જનમ્યો_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=168>હમારા_PR_PRP અમદાવાદ_N_NNP શહેરમાં_N_NN આવેલા_N_NST નરેંદ્ર_N_NNP મોદીને_N_NNP ધમકી_N_NN આપવામાં_V_VAUX આવશે_V_VAUX તો_RP_RPD હમે_PR_PRP તેને_PR_PRP જીવતો_N_NN સળગાવી_V_VAUX દેવામાં_V_VAUX આવશે_V_VAUX  મારૂ_PR_PRP નામ_N_NN અમીત_N_NNP દેવીપૂજક_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=169>મોદિજી_N_NNP જીન્દાબાદ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=170>મોદી_N_NNP  એક_QT_QTC  હનુમાનજી_N_NNP છે_V_VAUX કોઈની_DM_DMI તાકાત_N_NN  નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=171>મોદી_N_NNP  સિહ_N_NNP છે_V_VAUX   અને_CC_CCD સિહ_N_NNP જગલનો_N_NN રાજા_N_NN હોય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=172>"_RD_PUNC કોઈ_DM_DMI ખતરો_N_NN નથી_RP_NEG અને_CC_CCD ભારતમાં_N_NNP સ઼તાનો_N_NN ધમકીથી_N_NN પિછે_V_VAUX હટ_N_NN ના_RP_NEG કરે_V_VM બંધ_N_NN કર_V_VM તારો_PR_PRP બકવાસ_N_NN"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=173>મોદીજી_N_NNP ઇશ્વરથી_N_NNP પસંદ_N_NN કરેલા_V_VAUX    છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=174>મોદી_N_NNP સરકાર_N_NN જિંન્ડાબાદ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=175>મોદીજીને_N_NNP  મારવા_V_VAUX સાત_QT_QTC જન્મ_N_NN લેવો_V_VAUX પડે_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=176>"_RD_PUNCપરેશ_N_NNP  રબારી_N_NNP 
+રાજકારણ_N_NN"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=177>મોદીને_N_NNP કોઈ_DM_DMI ના_RP_NEG મારી_V_VAUX સકે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=178>મોદી_N_NNP ગયો_V_VAUX માય_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=179>મોદી_N_NNP સાહેબ_N_NN તો_RP_RPD ભારતના_N_NNP ભીસ્મ_N_NNP પીતામહ_N_NNP છે_V_VAUX એમને_PR_PRP મારતા_V_VAUX તો_RP_RPD ક્રુષણને_N_NNP  પણ_CC_CCD સૌવાર_QT_QTC વિચાર_N_NN કરવો_V_VAUX પડસે_V_VAUX  ._RD_PUNC</Sentence> 
+
+<Sentence id=180>દેશના_N_NN રાજકીય_JJ ડાગલાઓ_N_NN પાછળ_N_NST સુરક્ષા_N_NN કાજે_PSP જો_RP_RPD આટલો_QT_QTF ખર્ચ_N_NN કરવામાં_V_VAUX આવે_V_VM છે_V_VAUX એટલો_QT_QTF ખર્ચ_N_NN જો_RP_RPD દેશના_N_NN વિકાસ_N_NN પાછળ_N_NST કરવામાં_V_VAUX આવે_V_VM તો_RP_RPD દેશને_N_NN મહાસત્તા_JJ બનવાના_V_VAUX રોકી_V_VM ના_RP_NEG શકે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=181>અને_CC_CCD બીજી_QT_QTC વાત_N_NN કે_CC_CCS એવું_PR_PRL કામ_N_NN જ_RP_RPD સુકામ_PSP કરવું_V_VAUX પડે_V_VM કે_CC_CCS દેશની_N_NN જ_RP_RPD પબ્લિક_N_NN દેશના_N_NN રાજાને_N_NN મારવા_V_VAUX મજબૂર_JJ થાય_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=182> દેશનો_N_NN રાજા_N_NN તો_RP_RPD એવો_PR_PRL જોવો_N_NST જોઈએ_V_VAUX કે_CC_CCS જે_PR_PRL સુરક્ષા_N_NN વિના_PSP પ્રજાની_N_NN વચ્ચે_N_NST જઈને_V_VM પ્રજા_N_NN સમક્ષ_PSP વાર્તાલેપ_N_NN કરે_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=183>"_RD_PUNC કોઈના_DM_DMI બાપની_N_NN તાકાત_N_NN નથી_RP_NEG  જય_N_NN ભીમ_N_NNP"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=184>એક_QT_QTC નંબરનો_N_NN ફેકૂ_N_NN છે_V_VAUX મોદી_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=185>સારુ_JJ ગુજરાતનાં_N_NNP મુખ્ય_JJ મંત્રી_N_NN હતા_V_VAUX ત્યારે_N_NST તેઓને_PR_PRP મહીનામાં_N_NN બેવાર_QT_QTC આતંકવાદી_N_NN હુમલાની_N_NN ઘમકીઑ_N_NN મળતી_V_VAUX હતી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=186>"_RD_PUNC મોદી_N_NNP ગુજરાત_N_NNP તો_RP_RPD શેર_N_NNP છે_V_VAUX  કોઈની_DM_DMI માની_N_NN તાકાત_N_NN નથી_RP_NEG કે_CC_CCS એને_PR_PRP હાથ_N_NN પણ_CC_CCD અદારે_V_VAUX"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=187>મોદી_N_NNP તો_RP_RPD મરદ_JJ માણસ_N_NN  છે_V_VAUX એમને_PR_PRP તો_RP_RPD  કઇ_PR_PRQ થાય_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=188>"_RD_PUNC સ્વામિનારાયણ_N_NNP ભગવાન_N_NN જીવીત_V_VAUX રાખૅ_V_VM  મૉદીનૅ_N_NNP  વર્ષ_N_NN કાઇ_N_NST નહિ_RP_NEG થાઇ_V_VAUX"._RD_PUNC</Sentence>
+
+<Sentence id=189>સિંહને_N_NNP મારવો_V_VAUX હોય_V_VAUX તો_RP_RPD પેલા_QT_QTO બાપાને_N_NN પુછવુ_V_VAUX પડે_V_VM અને_CC_CCD અે_DM_DMD બાપ_N_NN  મારૂ_PR_PRP ભારત_N_NNP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=190>મોદી_N_NNP તુમ_PR_PRP આગે_N_NST બડો_V_VAUX હમ_PR_PRF તુમારે_PR_PRP સાથ_PSP  હૈ_V_VAUX  મોદી_N_NNP ગુજરાતનુ_N_NNP ગૌરવ_N_NN છે_V_VAUX અને_CC_CCD દેશનુ_N_NN રતન_N_NN છે_V_VAUX બીજેપી_N_NN ઝીદાબાદ_N_NN      નંમામિ_N_NN દેવી_N_NN નંમદે_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=191>મોદીજીને_N_NNP  શહીદ_N_NN થવા_V_VAUX દો_V_VAUX તો_RP_RPD શાન્તિ_N_NN થવા_V_VAUX દો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=192>નમસ્તે_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=193>"_RD_PUNC હમમ_PR_PRP ભરમમાં_N_NN રહો_V_VAUX  મોદી_N_NNP મોદી_N_NNP  માળા_N_NN જપતા_V_VAUX રહો_V_VAUX"._RD_PUNC</Sentence>
+
+<Sentence id=194>બક્વાસ_N_NN છે_V_VAUX આ_DM_DMD બધી_QT_QTF  ફેક_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=195>નાટક_N_NN કર્યુ_V_VAUX   જનતાને_N_NN મુર્ખ_JJ બનાવે_V_VAUX છે_V_VAUX ભાજપ_N_NN ફેકુ_JJ પાર્ટી_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=196>મોદીજી_N_NNP કાલે_N_NST સુ_PR_PRQ થવાસે_V_VAUX તે_PR_PRL મોદીજી_N_NNP આગલા_N_NST દિવસે_N_NN પડી_V_VAUX જાય_V_VAUX કેમ_PR_PRI કે_CC_CCS આખા_JJ ભારત_N_NNP  દેશનો_N_NN અસીરવાદશે_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=197>કોઈ_DM_DMI માઈના_N_NN  લાલ_N_NN પેદા_N_NN નથી_RP_NEG થયા_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=198>સૌથી_JJ મોટા_JJ દુશ્મન_N_NN તે_PR_PRL તમે_PR_PRP મીડીયાવાળા_N_NN સો_V_VAUX માદરચોદ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=199>ખરેખર_JJ જો_RP_RPD દેશ_N_NN માટે_PSP સાચું_JJ કામ_N_NN કરતાં_V_VAUX હોય_V_VAUX તો_RP_RPD એમને_PR_PRP કુદરત_N_NN સાથ_PSP આપશે_V_VAUX અને_CC_CCD ખોટું_JJ હોય_V_VAUX તો_RP_RPD આપણાંને_PR_PRP  ખબર_N_NN જ_RP_RPD._RD_PUNC</Sentence>
+
+<Sentence id=200> ગુજરાતીનિ_N_NN સામે_PSP પંગો_N_NN ના_RP_NEG લેવાય_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=201>એટલી_QT_QTF બધી_QT_QTF ફાટતી_V_VM હોય_V_VAUX તો_RP_RPD રાજકારણ_N_NN છોડીને_V_VAUX ઘરે_N_NN બેસો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=202>દેશને_N_NN મીડિયાથીજ_N_NN મોટો_JJ ખતરો_N_NN છે_V_VAUX રાજ_N_NN કરવું_V_VAUX હોય_V_VAUX તો_RP_RPD આવી_PR_PRL ધમકીઓ_N_NN તો_RP_RPD સહન_N_NN કરવી_V_VM જ_RP_RPD પડે_V_VM પહેલાના_QT_QTO રાજાઓને_N_NN પણ_CC_CCD ધમકીઓ_N_NN મડતી_V_VAUX જ_RP_RPD હતીને_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=203>ગમે_QT_QTF એટલી_QT_QTF ધમકી_N_NN મળે_V_VAUX મોદીને_N_NNP કાય_DM_DMI ફેર_N_NN ના_RP_NEG પડે_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=204>રામ_N_NNP રાખે_V_VAUX તેને_PR_PRP કોણ_PR_PRQ ચાખે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=205> ગુજરાતમાં_N_NNP મોદીના_N_NNP દુશ્મન_N_NN વધારે_QT_QTF છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=206>ગુજરાતી_N_NN હિમેશજી_N_NNP ગુજરાતી_N_NN ખુબ_JJ સરસ_JJ બોલે_V_VAUX છે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=207>ગુજરાતી_N_NN હમેશા_PSP આગળ_N_NST જ_RP_RPD હોય_V_VAUX બોસ_N_NN._RD_PUNC</Sentence>
+   
+<Sentence id=208>બુદ્ધિના_N_NN બળદિયાવ_N_NNP ૩૫૫_QT_QTC વિડિયોમાં_N_NN કહે_V_VAUX છે_V_VAUX કે_CC_CCS મુંબઈમાં_N_NNP જન્મ_N_NN થયો_V_VAUX છે_V_VAUX તોય_N_NST ભાવનગર_N_NNP અને_CC_CCD રાજુલાની_N_NNP  કરો_V_VAUX છો_V_VAUX ઘરની_N_NN હાકો_JJ છો_V_VAUX ફેકમ_JJ ફેલ_JJ._RD_PUNC</Sentence>
+
+<Sentence id=209>ના_RP_NEG આવડે_V_VAUX તો_RP_RPD રહેવા_V_VAUX દો_V_VAUX ભાઈ_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=210>ભાવનગરના_N_NNP છૅ_V_VAUX હિમૅસ_N_NNP ભાઇ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=211>મારૉ_PR_PRP ગુજરાતી_N_NN લાખૉમા_QT_QTC એક_QT_QTC હૉ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=212>શું_PR_PRQ વાત_N_NN છે_V_VAUX ભાઈ_N_NN ગુજરાતી_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=213>ગર્વ_JJ છે_V_VAUX કે_CC_CCS આવડો_QT_QTF મોટો_JJ  સિંગર_N_NN આપણા_PR_PRP ગુજરાતનો_N_NNP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=214>ગુજરાતી_N_NN ગીત_N_NN બનાવો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=215>"_RD_PUNCગુજરાતીમાં_N_NN વાત_N_NN સાંભળીને_V_VAUX મજા_N_NN આવી_V_VAUX ગઈ_V_VM ._RD_PUNC</Sentence>
+ 
+ <Sentence id=216>ૐ_N_NNP નમઃ_N_NN શિવાય_N_NNP "_RD_PUNC._RD_PUNC</Sentence>
+ 
+<Sentence id=217>"_RD_PUNC આજે_N_NST તમને_PR_PRP ગુજરાતીમાં_N_NN વાત_N_NN કરતા_V_VAUX જોઈને_V_VAUX ગર્વ_JJ થાય_V_VAUX છે_V_VAUX સર_N_NN  મજા_N_NN આવી_V_VAUX ગઈ_V_VM"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=218>હિમેશ_N_NNP ઘણીવાર_QT_QTF ગુજરાત_N_NNP આવી_V_VAUX ચૂક્યા_V_VAUX છે_V_VAUX અને_CC_CCD ગુજરાતીમાં_N_NN જ_RP_RPD વાતો_N_NN કરેલી_V_VAUX છે_V_VAUX માં_N_NN વિડિઓ_N_NN મળી_V_VM રહેશે_V_VAUX આ_DM_DMD પેહલી_QT_QTO વાર_N_NN નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=219>હિમેશ_N_NNP રેશમિયા_N_NNP ગુજરાતી_N_NN છે_V_VAUX એનો_PR_PRL ગર્વ_JJ છે_V_VAUX એમના_PR_PRP બધા_QT_QTF ગીતો_N_NN ખુબજ_JJ સરસ_JJ છે_V_VAUX     ભાવના_N_NNP લિબાચિયા_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=220>હિમેશનુ_N_NNP મુળ_JJ વતન_N_NN મુડુંગર_N_NNP તામહુવા_N_NNP જીભાવનગર_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=221>હા_RP_INJ મારો_PR_PRP ગુજરાતી_N_NN હા_RP_INJ મોજ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=222>ટોપાવો_JJ ગુજરાતી_N_NN સે_V_VAUX અને_CC_CCD ભાવનગરનો_N_NNP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=223>અમે_PR_PRP ગુજરાતી_N_NN લેરી_JJ  લાલા_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=224>હીમેશ_N_NNP ગુજરાતી_N_NN છે_V_VAUX એ_DM_DMD મને_PR_PRP ખબર_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=225>મને_PR_PRP બદ્ધા_N_NN સમજમાં_N_NN આવે_V_VM હું_PR_PRP નેપાળી_N_NN સુ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=226>વાહ_RP_INJ સાહેબ_N_NN વાહ_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=227>સોરી_N_NN મેલ_N_NN  હા_RP_INJ  મોજ_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=228>માત્ર_JJ રૂપિયા_N_NN રીચાર્જ_N_NN જીતો_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=229>વાહ_RP_INJ હિમેશભાઈ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=230>હિમેશ_N_NNP રેશમિયા_N_NNP ગુજરાતના_N_NNP  જ_RP_RPD છે_V_VAUX એટલે_CC_CCD  ગુજરાતી_N_NN આવડે_V_VAUX જ_RP_RPD  ને_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=231>ગુજરાતી_N_NN ગીત_N_NN બનાવો_V_VAUX હિમેશ_N_NNP ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=232>હા_RP_INJ મોજ_N_NN હા_RP_INJ._RD_PUNC</Sentence> 
+
+<Sentence id=233>ગુજરાતી_N_NN ગીત_N_NN બનાવો_V_VAUX ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=234>હા_RP_INJ ભાઈ_N_NN ગુજરાતી_N_NN હિમેશ_N_NNP રેશમીયા_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=235>હિમેશ_N_NNP ભાઈ_N_NN ગુજરાતી_N_NN ગીત_N_NN એક_QT_QTC બનાવો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=236>હિમેશ_N_NNP આયો_V_VAUX ત્યારનો_N_NST ખબર_N_NN છે_V_VAUX કે_CC_CCS આ_DM_DMD ગુજરાતી_N_NN છે_V_VAUX પણ_CC_CCD ગુજરાતી_N_NN બોલતા_V_VAUX પેલી_QT_QTO વાર_N_NN જોયો_V_VAUX હા_RP_INJ મોજ_N_NN હા_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=237>ગુજરાતી_N_NN મૂવીમાં_N_NN મ્યુઝિક_N_NN ક્યારે_N_NST આપશો_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=238>હિમેશ_N_NNP રેશમીયા_N_NNP ગુજરાતી_N_NN  આ_DM_DMD વાત_N_NN મને_PR_PRP આજે_N_NST ખબર_N_NN પડી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=239>ભાઈ_N_NN ગુજરાતી_N_NN સે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=240>ગુજરાતી_N_NN જય_N_NN જય_N_NN ગરવી_JJ ગુજરાત_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=241>શુધ_JJ ગુજરાતી_N_NN છે_V_VAUX હો_RP_INJ  ._RD_PUNC</Sentence>
+
+<Sentence id=242>હિમેશ_N_NNP ભાઈએ_N_NN ભુક્કા_JJ કાઢી_V_VAUX નાયખા_V_VAUX હો_RP_INJ પણ_CC_CCD._RD_PUNC</Sentence>
+
+<Sentence id=243>મારા_PR_PRP ભાવનગર_N_NNP જિલ્લાના_N_NN નાજ_N_NST છે_V_VAUX હો_RP_INJ વાલા_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=244>ગુજરાતી_N_NN બોલતા_V_VAUX હતા_V_VAUX એ_DM_DMD ગુડ_JJ._RD_PUNC</Sentence>
+
+<Sentence id=245>અરે_RP_INJ ભાઇ_N_NN મને_N_NNP તો_RP_RPD નવાઈ_N_NN લાગે_V_VM ગુજરાતી_N_NN બોલે_V_VAUX છે_V_VAUX તો_RP_RPD._RD_PUNC</Sentence>
+
+<Sentence id=246>"_RD_PUNC અમે_PR_PRP ગુજરાતી_N_NN લેરી_JJ લાલા_N_NN હા_RP_INJ મારા_PR_PRP ગુજરાતી_N_NN હા_RP_INJ"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=247>હિમેશ_N_NNP રેશમિયા_N_NNP એ_DM_DMD ડાર્વિનના_N_NNP મામા_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=248>હિમેશ_N_NNP રેશમિયા_N_NNP જોરદાર_JJ તમે_PR_PRP ગુજરાતી_N_NN ગીત_N_NN બનાવો_V_VAUX વોઇચ્_N_NN જોરદાર_JJ છે_V_VAUX તમારો_PR_PRP એક_QT_QTC ગરબો_N_NN બનાવો_V_VAUX મસ્ત_JJ ગુજરતી_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=249>હિમેશ__N_NNP ભાઈ_N_NN એક_QT_QTC  ગુજરાતી_N_NN ગીત_N_NN લાવો_V_VAUX તમે_PR_PRP પણ_CC_CCD ._RD_PUNC</Sentence>
+
+<Sentence id=250>મનેય_PR_PRP આજે_N_NST ખબર_N_NN પડી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=251>હિમેશભાઈ_N_NNP સહ્રદય_N_NN કલાકાર_N_NN છે_V_VAUX  ગુજરાતીઓ_N_NN માટે_PSP ગૌરવની_N_NN વાત_N_NN છે_V_VAUX શુભકામના_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=252>ભાઈ_N_NN ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=253>ગુજરાતી_N_NN ભગવાન_N_NN ઉપર_N_NST ભરોસો_N_NN રાખે_V_VAUX છે_V_VAUX એટલે_CC_CCD આગળ_N_NST જાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=254>હિમેશ_N_NNP કાઠીયાવાડમાં_N_NN કોકદી_N_NST ભુલો_V_VM પડ_V_VAUX ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=255>વાવ_RP_INJ ગુજરાતી_N_NN ગઝલ_N_NN આવડે_V_VAUX છે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=256>હિમેશ_N_NNP ભાઈ_N_NN તો_RP_RPD એકદમ_JJ હિટ_N_NN છે_V_VAUX સરસ_JJ ભાઈ_N_NN સરસ_JJ._RD_PUNC</Sentence>
+
+<Sentence id=257>બહુ_QT_QTF ઘણા_QT_QTF ગુજરાતી_N_NN પરિવારમાંથી_N_NN આવે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=258>વાહ_RP_INJ અમારા_PR_PRP ગુજરાતનું_N_NNP  ગૌરવ_N_NN ._RD_PUNC</Sentence>
+          
+<Sentence id=259>હિમેશ_N_NNP રેશમિયા_N_NNP ગુજરાતી_N_NN ભાષામાં_N_NN વાત_N_NN કરે_V_VM છે_V_VAUX બોવ_JJ સરસ_JJ કેવાય_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=260>સાલુ_JJ ગુજરાતિયોનિ_N_NN તો_RP_RPD વાત_N_NN જ_RP_RPD ન_RP_NEG થાય_V_VAUX હો_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=261>સાલુ_JJ મને_N_NNP પણ_CC_CCD આજેજ_N_NST ખબર_N_NN પડી_V_VAUX કે_CC_CCS હિમેશરેશમિયા_N_NNP   ગુજરાતિ_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=262>અરે_RP_INJ આ_DM_DMD તો_RP_RPD આપણો_PR_PRP ગુજરાતી_N_NN ભાઈબંધ_N_NN નીકળ્યો_V_VAUX મને_PR_PRP તો_RP_RPD આજે_N_NST જ_RP_RPD ખબર_N_NN પડી_V_VAUX વાહ_RP_INJ ગુજરાતી_N_NN છોકરા_N_NN વાહ_RP_INJ જય_N_NN ગુજરાતી_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=263>મજા_N_NN આવી_V_VAUX ગઈ_V_VM મહેશભાઈ_N_NNP ગુજરાતીમાં_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=264>અમે_PR_PRP ગુજરાતી_N_NN લેરી_JJ લાલા_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=265>સુપર_JJ ગુજરાતી_N_NN   ._RD_PUNC</Sentence> 
+
+<Sentence id=266>"_RD_PUNC તારી_PR_PRP આંખ_N_NN નો_N_NN અફીણી_N_NN તારા_PR_PRP બોલનો_N_NN બંધાણી_V_VAUX તારી_PR_PRP રૂપની_N_NN પુનમનો_N_NN પાગલ_N_NN એકલો_QT_QTO"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=267>કાઠિયાવાડી_N_NN ભુરો_N_NN હા_RP_INJ મોજ_N_NN હા_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=268>મેડમ_N_NN હિમેશ_N_NNP ભાઈને_N_NN બેસવા_V_VAUX ખૂરશી_N_NN આપવી_V_VAUX જોઈએ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=269>વાહ_RP_INJ હિમેશ_N_NNP સર_N_NN તમે_PR_PRP ગુજરાતી_N_NN છો_V_VAUX એજ_DM_DMD અમારા_PR_PRP માટે_PSP ગર્વની_N_NN વાત_N_NN છે_V_VAUX જય_N_NN જલારામ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=270>વા_RP_INJ મારો_PR_PRP ગુજરાતી_N_NN જય_N_NN ગરવી_JJ ગુજરાત_N_NNP જય_N_NN હિન્દ_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=271>વાહ_RP_INJ આપડો_PR_PRP ગુજરાતી_N_NN હિમેશ_N_NNP રેશમિયા_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=272>હા_RP_INJ મારા_PR_PRP ગુજરાતી_N_NN હા_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=273>ગુજરાતી_N_NN આવડે_V_VAUX એમ_PSP આજે_N_NST ખબર_N_NN પડી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=274>ગાયન_N_NN શબ્દ_N_NN તો_RP_RPD ખાલી_JJ પાક્કો_JJ ગુજરાતી_N_NN જ_RP_RPD બોલી_V_VAUX શકે_V_VAUX વટથી_N_NN અને_CC_CCD મોજથી_N_NN ગુજરાતી_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=275>"_RD_PUNC અરે_RP_INJ ભાઈ_N_NN મેં_PR_PRP હીંમૅશ_N_NNP રેશમિયાને_N_NNP ગુજરાતીમાં_N_NN વાત_N_NN કરતા_V_VAUX જોતો_V_VAUX જ_RD
+ રહી_V_VM ગયો_V_VAUX  પહેલીવાર_QT_QTO જોયું_V_VAUX "_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=276>"_RD_PUNC જ્યાં_N_NST વસે_N_NN એક_QT_QTC ગુજરાતી_N_NN  ત્યાં_N_NST સદા_PSP કાળ_N_NN ગુજરાત_N_NNP  જય_N_NN જય_N_NN ગરવી_JJ ગુજરાત_N_NNP"._RD_PUNC</Sentence>
+
+<Sentence id=277>ગુજરાતી_N_NN નંબર_N_NN વન_QT_QTC છે_V_VAUX ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=278>યારરર_RP_INJ હુ_PR_PRP હીમેસને_N_NNP ગુજરાતી_N_NN બોલતા_V_VAUX હુ_PR_PRP તો_RP_RPD ખાડામા_N_NN પડી_V_VAUX ગયો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=279>સુ_PR_PRQ વાત_N_NN સે_V_VAUX હિમેશ_N_NNP સરને_N_NN ગુજરાતી_N_NN આવડે_V_VAUX છે_V_VAUX  મને_N_NNP બહુ_JJ ગમ્યું_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=280>ગુજ્જુ_JJ   છે_V_VAUX   પણ_CC_CCD  બહુ_JJ   અભિમાની_N_NN  હોય_V_VAUX  તેવું_PR_PRL  લાગે_V_VM  છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=281>ખુબ_JJ સરસ_JJ હિમેશભાઈ_N_NNP રેશમિયા_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=282>છોકરો_N_NN ગુજરાતીમાં_N_NN બોલ્યો_V_VAUX તો_RP_RPD સારો_JJ લાગે_V_VM છે_V_VAUX ભાઈઓ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=283>જે_PR_PRL લોકોને_N_NN ખ્યાલ_N_NN નહોતો_RP_NEG કે_CC_CCS હિમેશ_N_NNP રેશમીયા_N_NNP ગુજરાતી_N_NN છે_V_VAUX તેમને_PR_PRP જણાવવાનું_V_VAUX કે_CC_CCS જ્હોન_N_NNP અબ્રાહમ_N_NNP જેકી_N_NNP શ્રોફ_N_NNP નીલ_N_NNP નીતિન_N_NNP મુકેશ_N_NNP વગેરે_PSP ગુજરાતી_N_NN ફેમિલીમાંથી_N_NN આવે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=284>તારી_PR_PRP આંખનો_N_NN અફીણી_N_NN ગાય_V_VAUX અને_CC_CCD શબ્દોમાં_N_NN ભૂલ_N_NN પડે_V_VM તો_RP_RPD મેડમ_N_NN કહી_V_VM શક્યા_V_VAUX હોત_V_VAUX કે_CC_CCS આ_DM_DMD રીતે_RB બાકી_N_NST જે_PR_PRL આવડતું_V_VAUX હોય_V_VAUX એ_DM_DMD ગવડાવવુંતું_V_VAUX  આટલું_QT_QTF ધ્યાન_N_NN બીજા_QT_QTC ઇન્ટરવ્યૂમાં_N_NN  રાખજો_V_VAUX એચઆર_N_NNP  ગુજરાતી_N_NN છે_V_VAUX એનું_PR_PRL ગૌરવ_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=285>ખૂબજ_JJ સુંદર_JJ ગુજરાતી_N_NN બોલો_V_VAUX છો_V_VAUX  હિમેશ_N_NNP ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=286>અમુક_QT_QTF ઇંગ્લિશના_N_NN વહેમમાં_N_NN મરવામાં_V_VAUX જેવુ_PR_PRL ગુજરાતી_N_NN બોલે_V_VAUX છે_V_VAUX એના_PR_PRL કરતાં_V_VAUX ક્યાય_V_VAUX સરસ_JJ ગુજરાતી_N_NN હિમેશ_N_NNP બોલે_V_VAUX છે_V_VAUX  ગમ્યું_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=287>દોસ્તો_N_NN મને_N_NNP તો_RP_RPD હિમેશ_N_NNP જયારે_N_NST ફિલ્મ_N_NN બંધનમા_N_NN સ્કોર_N_NN આપ્યો_V_VAUX ત્યારે_N_NST જ_RP_RPD ખબર_N_NN હતી_V_VAUX કે_CC_CCS તે_PR_PRP ગુજરાતી_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=288>મે_PR_PRP સાભળ્યુ_V_VAUX કે_CC_CCS હીમેશ_N_NNP  ભાવનગરના_N_NNP મહુવામાથી_N_NNP છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=289>એહ_QT_QTC ગીત_N_NN બનાવો_V_VAUX ને_N_NN હિમેશ_N_NNP  ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=290>વાહ_RP_INJ વાહ_RP_INJ હિમેશ_N_NNP રેશમિયા_N_NNP ભાઈ_N_NN તમે_PR_PRP ગુજરાતી_N_NN બોલો_N_NST શો_V_VAUX ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=291>ઓ_RP_INJ તારી_PR_PRP  આ_DM_DMD ગુજરાતી_N_NN છે_V_VAUX મને_N_NNP તો_RP_RPD આજે_N_NST જ_RP_RPD ખબર_N_NN પડી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=292>જોરદાર_JJ વાત_N_NN કરે_V_VM છે_V_VAUX હીમેશ_N_NNP ભાઈ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=293>એક_QT_QTC ગુજરાતી_N_NN જ_RP_RPD આ_DM_DMD કરી_V_VM શકે_V_VAUX જેમકે_CC_CCS રાનુ_N_NNP મંઙલને_N_NNP હિમેશ_N_NNP સરે_N_NN  ચાન્સ_N_NN આપ્યો_V_VAUX ._RD_PUNC</Sentence> 
+
+<Sentence id=294> બાકી_N_NST બીજા_QT_QTC ને_N_NN જોઇ_V_VM લો_V_VAUX  ને_N_NN જ_RP_RPD ._RD_PUNC</Sentence>
+
+<Sentence id=295>હિમેશ_N_NNP રેશમીયા_N_NNP ગુજરાતી_N_NN છે_V_VAUX તે_PR_PRL આજે_N_NST જ_RD ખબર_N_NN પડી_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=296>જ્યારથી_N_NST હિમેશ_N_NNP રેશમિયાએ_N_NNP ડેબ્યું_V_VM કર્યું_V_VAUX છે_V_VAUX એ_DM_DMD દિવસથી_N_NN હું_PR_PRP એમને_PR_PRP ગુજરાતીમાં_N_NN સાંભળવા_V_VAUX બહુ_JJ જ_JJ તરસ્યો_V_VAUX છું_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=297>આજે_N_NST મારા_PR_PRP નાનપણની_N_NN ખ્વાહિશ_N_NN પૂરી_RB થઈ_V_VAUX ગઈ_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=298>અમિત_N_NNP ત્રિવેદી_N_NNP હિમેશ_N_NNP રેશમિયા_N_NNP શેખર_N_NNP રવજીવાની_N_NNP વિશાલ_N_NNP શેખર_N_NNP સલીમ_N_NNP સુલેમાન_N_NNP સંજય_N_NNP લીલા_N_NNP ભણસાલી_N_NNP મ્યુઝિક_N_NN એન્ડ_CC_CCD મૂવી_N_NN ડિરેક્ટર_N_NN અને_CC_CCD પ્રોડ્યૂસર_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=299>આટલા_QT_QTF બધા_QT_QTF ટોપના_JJ ગુજરાતીઓ_N_NN મ્યુઝિક_N_NN ડિરેક્ટર_N_NN હોવા_V_VAUX છતાં_CC_CCD પણ_CC_CCD કોઈ_DM_DMI ગુજરાતી_N_NN ગીત_N_NN કંપોઝ_N_NN કરતું_V_VAUX નથી_RP_NEG ._RD_PUNC</Sentence>
+
+<Sentence id=300> માત્ર_JJ સચિન_N_NNP અને_CC_CCD જીગર_N_NNP જ_RD ઈવા_PR_PRL એક_QT_QTC મ્યુઝિક_N_NN ડિરેક્ટર_N_NN છે_V_VAUX જે_PR_PRL ગુજરાતી_N_NN ગીતો_N_NN કંપોઝ_N_NN કરે_V_VM છે_V_VAUX અને_CC_CCD તે_PR_PRL પણ_CC_CCD મસ્ત_JJ સારા_JJ ગુજરાતી_N_NN ગીતો_N_NN બનાવે_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=301> આપડો_PR_PRP ગુજરાતી_N_NN બધેય_JJ આગળ_N_NST છૅ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=302> હા_RP_INJ મારો_PR_PRP ગુજરાતી_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=303> કદાચ_JJ ઇન્ટરવ્યૂમા_N_NN  ગુજરાતના_N_NNP સુપર_JJ સ્ટાર_JJ વિક્રમભાઈ_N_NNP ઠાકોર_N_NNP હોય_V_VAUX તો_RP_RPD ઇન્ટરવ્યૂની_N_NN પથારી_N_NN ફેવરી_V_VAUX નાખ્યો_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=304> "_RD_PUNC ૧_QT_QTC   છોટાઉદેપુરના_N_NNP આદિવાસી_N_NN વિસ્તારમાં_N_NN ગરીબી_N_NN  જોવો_V_VAUX  
+૨_QT_QTC   પાણી_N_NN  પીવા_V_VAUX પણ_CC_CCD નહીં_RP_NEG મળતું_V_VAUX 
+૩_QT_QTC આ_DM_DMD  વિસ્તારમાં_N_NN સરવયુ_N_NN કરો_V_VAUX ગરીબીનું_N_NN"_RD_PUNC._RD_PUNC</Sentence>
+             
+                        
+<Sentence id=305> કેટલીક_QT_QTF વાર_N_NN છે_V_VAUX ગુજરાત_N_NNP વિધાનસભાની_N_NN ચૂંટણીને_N_NN._RD_PUNC</Sentence> 
+
+<Sentence id=306> જય_N_NN જય_N_NN કોંગેસ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=307> કોઞેષપાટી_N_NN  અનામતની_N_NN વાત_N_NN છેડીને_V_VM ભાજપને_N_NN મજબૂત_JJ કરે_V_VM છે_V_VAUX ઞુજરાતમાં_N_NNP અનામત_N_NN આનંદોલ_N_NN ન_RP_NEG ભાજપને_N_NN જ_RP_RPD ફાયદો_N_NN થાય_V_VAUX છે_V_VAUX જરા_QT_QTF વિચારો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=308> ખરેખર_JJ કોઞેષપાટી_N_NN બહુ_QT_QTF ભુલ_N_NN કરી_V_VM રહી_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=309> હાદિકથી_N_NNP ભાજપને_N_NN જ_RP_RPD ફાયદો_N_NN થાય_V_VAUX છે_V_VAUX પાછલા_QT_QTO પરિણામ_N_NN તપાસો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=310> હાર્દિક_N_NNP પટેલ_N_NNP ભાજપનું_N_NN જ_RP_RPD પેદુ_N_NN લાગે_V_VM છે_V_VAUX કારણ_N_NN કે_CC_CCS એના_PR_PRL લીધે_PSP ભાજપ_N_NN મજબૂત_JJ થયો_V_VAUX છે_V_VAUX જરા_QT_QTF વિચારો_V_VAUX  આ_DM_DMD ચાલને_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=311> ગરીબોને_N_NN મળતા_V_VAUX લાભોથી_N_NN અપચો_N_NN થાય_V_VAUX છે_V_VAUX ગરીબ_N_NN ગરીબ_N_NN જ_RP_RPD રહે_V_VAUX અને_CC_CCD બેરોજગાર_N_NN બેરોજગાર_N_NN રહે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=312> કોઈ_DM_DMI પણ_CC_CCD વિડીયોની_N_NN  તારીખ_N_NN લખશો_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=313> બધા_QT_QTF લોકોને_N_NN અનામત_N_NN જ_RP_RPD મહત્વનું_JJ છે_V_VAUX પણ_CC_CCD એક_QT_QTC વાત_N_NN સ્પષ્ટ_JJ થાય_V_VAUX છે_V_VAUX કે_CC_CCS ._RD_PUNC</Sentence>
+
+<Sentence id=314> ગૂજરાત_N_NNP મારૂ_PR_PRP ગૌરવ_N_NN છે_V_VAUX હૂ_PR_PRP ગૂજરાતનો_N_NNP નાગરીક_N_NN છુ_V_VAUX જય_N_NN ગરવી_JJ ગુજરાતને_N_NNP વંદંન_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=315> તેમજ_CC_CCD સત્તાધીશો_N_NN સત્તા_JJ પર_PSP જ_RP_RPD રહે_V_VAUX તેવી_PR_PRL તરકીબો_N_NN લાગે_V_VM છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=316> "_RD_PUNC ૧_QT_QTC   છોટાઉદેપુરના_N_NNP આદિવાસી_N_NN વિસ્તારમાં_N_NN ગરીબી_N_NN  જોવો_V_VAUX    ૨_QT_QTC   પાણી_N_NN  પીવા_V_VAUX પણ_CC_CCD નહીં_RP_NEG મળતું_V_VAUX   ૩_QT_QTC આ_DM_DMD  વિસ્તારમાં_N_NN સરવયુ_N_NN કરો_N_NN ગરીબીનું_N_NN"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=317> રીપોર્ટર_N_NN પ્રકાશ_N_NNP ચૌધરી_N_NNP થરાદ_N_NNP બનાસકાંઠા_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=318> હવે_N_NST તો_RP_RPD આ_DM_DMD ક્લિપ_N_NN હટાવો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=319>  એ_DM_DMD રજ_N_N રમત_N_NN શરૂ_V_VM કરી_V_VM._RD_PUNC</Sentence>
+
+<Sentence id=320> કેટલીક_QT_QTF વાર_N_NN છે_V_VAUX ગુજરાત_N_NNP વિધાનસભાની_N_NN ચૂંટણીને_N_NN 
+લમખેટા_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=321> કોંગેસ_N_NN ક્યારે_N_NST નહિ_RP_NEG જીતે_N_NN મોદીજી_N_NNP જય_N_NN હો_RP_INJ હાર્દિક_N_NNP ક્યારે_N_NST નહિ_RP_NEG જીતે_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=322> જ્યારે_N_NST પણ_CC_CCD આવુ_RP_RPD આંદોલન_N_NN હોય_V_VAUX તો_RP_RPD પોલીસને_N_NN દંડા_N_NN નહી_RP_NEG   આપવી_V_VAUX જોઈએ_V_VAUX  અને_CC_CCD સરકારની_N_NN રાહ_V_VAUX જોયા_V_VAUX વિના_PSP પથર_N_NN મારવાવારાને_N_NN પાડી_V_VM દેવા_V_VAUX જોઈએ_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=323> જવાબદારોને_N_NN પકડીને_V_VAUX જાહેરમાં_N_NN ફઠકારો_V_VAUX ખાસ_JJ કરીને_V_VM પેલા_QT_QTO શહેજાદખાન_N_NNP પઠાણ_N_NNP ઉફૅ_PSP સનીબાબાને_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=324> આ_DM_DMD લોકો_N_NN ચાહે_V_VM છે_V_VAUX ફરી_RB ગોધરા_N_NNP કાંડ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=325> પાછળથી_N_NST આ_DM_DMD માણસો_N_NN ઉપર_N_NST કાર્યવાહી_N_NN થવી_V_VAUX જોઈએ_V_VAUX કેટલા_QT_QTF દિવસ_N_NN પોલીસ_N_NN સહન_N_NN કરશે_V_VAUX આવું_RP_RPD વંદન_N_NN છે_V_VAUX મારી_PR_PRP ગુજરાતને_N_NNP પોલીસને_N_NN કેવો_PR_PRQ ઉશ્કેરાઇને_N_NN કોઈએ_DM_DMI ફાયરિંગ_N_NN પણ_CC_CCD કર્યું_V_VAUX નથી_RP_NEG._RD_PUNC</Sentence>
+
+<Sentence id=326> શરમનાક_N_NN હરકત_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=327> આ_DM_DMD તદ્દન_JJ ખોટું_JJ થયેલ_V_VAUX છે_V_VAUX હું_PR_PRP પણ_CC_CCD એક_QT_QTC મુસ્લિમ_N_NN છું_V_VAUX પણ_CC_CCD આ_DM_DMD હિંસા_N_NN માટે_PSP હું_PR_PRP નિંદા_N_NN કરું_V_VAUX છું_V_VAUX ._RD_PUNC</Sentence>
+ 
+<Sentence id=328> પોલીસ_N_NN આપડી_PR_PRP સુરક્ષા_N_NN માટે_PSP છે_V_VAUX અને_CC_CCD એના_PR_PRL પર_PSP પથ્થરમારો_N_NN કરવો_V_VAUX ઈ_DM_DMD તદ્દન_JJ ખોટું_JJ છે_V_VAUX આનો_PR_PRL હું_PR_PRP વિરોધ_N_NN કરું_V_VAUX છું_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=329> આ_DM_DMD માટે_PSP કોઈ_DM_DMI એક_QT_QTC સમાજને_N_NN આપડે_PR_PRP નિશાનો_N_NN બનવાનું_V_VAUX નથી_RP_NEG કરે_V_VM નેતા_N_NN અને_CC_CCD ભોગતે_V_VAUX પોલીસે_N_NN ._RD_PUNC</Sentence>
+ 
+<Sentence id=330> આ_DM_DMD નેતાઓની_N_NN રાજનીતિ_N_NN છે_V_VAUX હિન્દૂ_N_NN મુસ્લિમ_N_NN ભાઈ_N_NN તમે_PR_PRP હજી_PSP સમજો_V_VAUX આ_DM_DMD  ને_N_NN ખુરસીએથી_N_NN હટાઓ_V_VAUX આ_DM_DMD લોકો_N_NN આપણને_PR_PRP અંદરો_N_NST અંદર_N_NST બધાવે_V_VAUX છે_V_VAUX ને_PSP આપડે_PR_PRP બાઘીએ_V_VAUX છીએ_V_VAUX સમજો_V_VAUX યારો_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=331> "_RD_PUNC પોલીસ_N_NN પર_PSP પથ્થરમારો_N_NN દરેક_QT_QTF આંદોલનમાં_N_NN થાય_V_VAUX છે_V_VAUX આ_DM_DMD દર_JJ વખતે_PSP થાય_V_VAUX છે_V_VAUX આ_DM_DMD તદ્દન_JJ ખોટું_JJ છે_V_VAUX આવા_PR_PRL તત્વોને_N_NN ગોલી_N_NN મારો_V_VAUX પોલિસ_N_NN સુરક્ષા_N_NN માટે_PSP છે_V_VAUX માર_N_NN ખાવા_V_VAUX માટે_PSP નથી_RP_NEG._RD_PUNC</Sentence> 
+
+<Sentence id=332>  પણ_CC_CCD તમે_PR_PRP લોકો_N_NN એક_QT_QTC સમાજને_N_NN નિશાનો_N_NN ના_RP_NEG બનાવો_V_VAUX ._RD_PUNC</Sentence>
+ 
+<Sentence id=333> મુસ્લિમના_N_NN આંદોલનમાં_N_NN આ_DM_DMD હિંસા_N_NN થઈ_V_VAUX પરંતું_CC_CCD મુસ્લિમ_N_NN પેલા_QT_QTO કેટલાંક_QT_QTF આંદોલન_N_NN થયાઈ_V_VAUX પણ_CC_CCD જોય_V_VAUX લેજો_V_VAUX અને_CC_CCD તપાસ_N_NN કરજો_V_VAUX કે_CC_CCS દરેક_QT_QTF વખતે_PSP પોલીસ_N_NN માર_N_NN ખાય_V_VAUX છે_V_VAUX તો_RP_RPD આમા_PR_PRL કોઈ_DM_DMI ધર્મ_N_NN કે_CC_CCS જાતિનો_N_NN કસૂર_N_NN નથી_RP_NEG આવા_PR_PRL અમુક_QT_QTF તત્વો_N_NN હોય_V_VAUX છે_V_VAUX જે_PR_PRL આ_DM_DMD કાર્યને_N_NN અંજામ_N_NN આપે_V_VAUX છે_V_VAUX તમને_PR_PRP વિનંતી_V_VAUX કે_CC_CCS કોઈ_DM_DMI ધર્મ_N_NN વિશે_PSP ખરાબ_N_NN ન_RP_NEG બોલો_V_VAUX બધાય_QT_QTF એક_QT_QTC સરખા_N_NN ન_RP_NEG હોય_V_VAUX હિન્દૂમુસ્લિમ_N_NN ભાઈ_N_NN છે_V_VAUX અને_CC_CCD રહશે_V_VAUX"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=334> ગાયની_N_NNP પૂજા_V_VAUX કરનારાં_V_VAUX અને_CC_CCD ગાયને_N_NNP ખાનારા_V_VAUX કયારેય_N_NST ભાઇ_N_NN ભાઇ_N_NN ના_RP_NEG બની_V_VM શકે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=335> "_RD_PUNC  થાય_V_VAUX તો_RP_RPD કેતા_V_VAUX નઇ_RP_NEG મોદી_N_NNP હેવાન_N_NN છે_V_VAUX"._RD_PUNC</Sentence>
+
+<Sentence id=336> ભારતમાં_N_NNP ગુસિગયેલિ_N_NNP બાંગલાદેશી_N_NN અને_CC_CCD પાકિસ્તાનનીઓને_N_NN ભગાડી_V_VAUX મૂકો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=337> ફાયરીંગ_N_NN કરો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=338> હા_RP_INJ બેન_N_NN ગમે_QT_QTF તેં_PR_PRL થાય_V_VAUX પણ_CC_CCD મોજમા_N_NN રહેવાનું_V_VAUX જીંદગી_N_NN ઘટે_JJ દુશ્મન_N_NN ભલે_PSP માથા_JJ ભારે_JJ હોય_V_VAUX જેનો_PR_PRL જેનો_PR_PRL આપડે_PR_PRP તૌ_RP_RPD મોજમા_N_NN રહેવાનું_V_VAUX કિજલ_N_NNP બેન_N_NN સુપર_JJ ગીત_N_NN છે_V_VAUX બેન_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=339> હા_RP_INJ તમારો_PR_PRP ગીત_N_NN ગમી_V_VM રહ્યું_V_VAUX લોકોના_N_NN દિલમાં_N_NN વસી_V_VM ગયેલું_V_VAUX જય_N_NN માં_N_NN મોગલ_N_NNP._RD_PUNC</Sentence>
+
+<Sentence id=340> હા_RP_INJ ઉમેશ_N_NNP બોરટની_N_NNP મોજ_N_NN હા_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=341> હુ_PR_PRP જ્યારે_N_NST ટ્રેસમા_N_NN હોઉં_V_VAUX ત્યારે_N_NST આ_DM_DMD ગીત_N_NN સાભળુ_V_VAUX છું_V_VAUX મુડ_N_NN આવી_V_VAUX જાય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=342> આજે_N_NST એ_DM_DMD જ_RP_RPD માણસો_N_NN ગુજરાતી_N_NN ગીતો_N_NN સાંભળે_V_VAUX છે_V_VAUX_RD_PUNC</Sentence>
+
+<Sentence id=343>અમારા_PR_PRP જેવા_PR_PRL ગુજરાતી_N_NN અસ્મિતાનું_N_NNP ધ્યાન_N_NN રાખતા_V_VAUX માણસોની_N_NN જીત_N_NN છે_V_VAUX._RD_PUNC</Sentence>
+                     
+<Sentence id=344>અમારી_PR_PRP સાથે_PSP જોડાઇને_V_VAUX મહીનેથી_N_NN વધારે_QT_QTF કમાઓ_V_VAUX ._RD_PUNC</Sentence> 
+
+<Sentence id=345> આપનો_PR_PRP કામ_N_NN ધંધો_N_NN ચાલુ_V_VM રાખીને_V_VAUX સાઇડ_N_NN     બીઝનેસ_N_NN કરવાની_V_VAUX ઉતમ_JJ તક_N_NN._RD_PUNC</Sentence>  
+
+<Sentence id=346>અમારી_PR_PRP સાથે_PSP જોડાઇને_V_VAUX આપ_PR_PRP પણ_CC_CCD તમારા_PR_PRP સપના_N_NN પૂરાં_RB કરી_V_VM શકો_V_VAUX છો_V_VAUX ._RD_PUNC</Sentence> 
+
+<Sentence id=347>ગૃહીણીઓ_N_NN અને_CC_CCD વિદ્યાર્થીઓ_N_NN માટે_PSP ઉત્તમ_JJ અવસર_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=348>જોડાવા_V_VAUX માટે_PSP અને_CC_CCD વધુ_JJ જાણકારી_N_NN મેળવવા_V_VAUX માટે_PSP આજે_N_NST જ_RP_RPD સંપર્ક_N_NN કરો_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=349>ભાઈ_N_NN બોનવિતા_N_NN નથી_RP_NEG હું_PR_PRP તને_PR_PRP પ્રેમ_N_NN કરું_V_VAUX છું_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=350>હા_RP_INJ મોજ_N_NN હા_RP_INJ._RD_PUNC</Sentence>
+
+<Sentence id=351>બહુ_QT_QTF કોશિશ_N_NN કરી_V_VM કે_CC_CCS રડવું_V_VAUX નથી_RP_NEG પણ_CC_CCD રોકી_V_VM શકાયું_V_VAUX નહીં_RP_NEG ._RD_PUNC</Sentence>
+ 
+ <Sentence id=352>બેનની_N_NN યાદ_N_NN આવી_V_VAUX ગયી_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=353>કાયમ_PSP ફેવરીટ_N_NN રહેશે_V_VAUX આ_DM_DMD સોંગ_N_NN._RD_PUNC</Sentence>
+
+<Sentence id=354>ભૂમિ_N_NNP બેન_N_NN તમારા_PR_PRP  શબ્દોથી_N_NN આજ_N_NST આભ_N_NN થભી_V_VM ગયું_V_VAUX છે_V_VAUX લાગણીનો_N_NN  દરિયો_N_NN સલકાયી_V_VAUX રહ્યો_V_VAUX છે_V_VAUX બેન_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=355>આ_DM_DMD દુખ_N_NN સહન_N_NN કરવાની_V_VAUX દીકરીઓને_N_NN ભગવાન_N_NN વિશેષ_JJ હીંમત_N_NN દૈય_V_VAUX છે_V_VAUX._RD_PUNC</Sentence>
+
+<Sentence id=356> અદ્ભૂત_JJ._RD_PUNC</Sentence>
+
+<Sentence id=357>સરસ_JJ._RD_PUNC</Sentence>
+
+<Sentence id=358>ગુજરાતી_N_NN સાહિત્ય_N_NN અને_CC_CCD લોકવાયકાને_N_NN આવી_PR_PRL જ_RP_RPD રીતે_RB  ઉજાગર_N_NN કરી_V_VM સમસ્ત_QT_QTF સંસારમાં_N_NN પ્રચાર_V_VAUX અને_CC_CCD પ્રસાર_V_VAUX કરવામાં_V_VAUX આવે_V_VM તો_RP_RPD ભુલાતી_JJ ગુજરાતી_N_NN ભાષા_N_NN અને_CC_CCD સાહિત્યને_N_NN એક_QT_QTC નવો_JJ જ_JJ રંગ_N_NN મળે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=359>ઝવેરચંદ_N_NNP મેઘાણીની_N_NNP ઉત્કૃષ્ટ_JJ કૃતિને_N_NN એટલી_QT_QTF જ_RP_RPD ઉત્કૃષ્ટ_JJ રીતે_RB રજૂ_V_VM કરવા_V_VAUX બદલ_PSP આભાર_N_NN ._RD_PUNC</Sentence>
+
+<Sentence id=360>"_RD_PUNC સાવજ_N_NNP ગરજે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=361>વનરાવનનો_N_NN રાજા_N_NN ગરજે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=362> ગીરકાંઠાનો_N_NN કેસરી_JJ ગરજે_V_VAUX._RD_PUNC</Sentence> 
+ 
+ <Sentence id=363>ઐરાવતકુળનો_N_NN અરિ_N_NNP ગરજે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=364>કડ્યપાતળિયો_JJ જોદ્ધો_N_NN ગરજે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=365>મોં_N_NN ફાડી_JJ માતેલો_N_NN ગરજે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=366>જાણે_V_VAUX કો_N_NN જોગંદર_JJ ગરજે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=367>નાનો_JJ એવો_PR_PRL સમદર_N_NN ગરજે_V_VAUX  ._RD_PUNC</Sentence>
+
+<Sentence id=368> ક્યાં__N_NST ક્યાં__N_NST ગરજે_V_VAUX._RD_PUNC</Sentence>  
+
+<Sentence id=369>બાવળના_N_NN જાળામાં_N_NN ગરજે_V_VAUX._RD_PUNC</Sentence>
+
+ <Sentence id=370> ડુંગરના_N_NN ગાળામાં_N_NN ગરજે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=371> કણબીના_N_NN ખેતરમાં_N_NN ગરજે_V_VAUX._RD_PUNC</Sentence> 
+
+ <Sentence id=372>ગામ_N_NN તણા_PSP પાદરમાં_N_NN ગરજે_V_VAUX._RD_PUNC</Sentence> 
+ 
+ <Sentence id=373>નદીઓની_N_NN ભેખડમાં_N_NN ગરજે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=374>ગિરિઓની_N_NN ગોહરમાં_N_NN ગરજે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=375>ઉગમણો_JJ આથમણો_JJ ગરજે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=376>ઓરો_JJ ને_PSP આઘેરો_JJ ગરજે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=377>થર_N_NN થર_N_NN કાંપે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=378>વાડામાં_N_NN  વાછડલાં_N_NN કાંપે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=379>કૂબામાં_N_NN બાળકડાં_N_NN કાંપે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=380>મધરાતે_JJ પંખીડાં_N_NN કાંપે_V_VAUX._RD_PUNC</Sentence> 
+ 
+ <Sentence id=381>ઝાડ_N_NN તણાં_PSP પાંદડલા_N_NN કાંપે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=382>પહાડોના_N_NN પથ્થર_N_NN પણ_CC_CCD કાંપે_V_VAUX._RD_PUNC</Sentence> 
+ 
+ <Sentence id=383>સરિતાઓના_N_NN જળ_N_NN પણ_CC_CCD કાંપે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=384>સૂતાં_N_NN ને_N_NN જાગંતાં_N_NN કાંપે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=385>જડને_N_NN ચેતન_N_NNP સૌએ_QT_QTF કાંપે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=386>આંખ_N_NN ઝબૂકે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=387>કેવી_PR_PRQ એની_PR_PRL આંખ_N_NN ઝબૂકે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=388>વાદળમાંથી_N_NN વીજ_N_NN ઝબૂકે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=389>જોટે_N_NN ઊગી_V_VM બીજ_N_NN ઝબૂકે_V_VAUX._RD_PUNC</Sentence>
+ 
+<Sentence id=390> જાણે_V_VAUX બે_QT_QTC અંગાર_N_NN ઝબૂકે_V_VAUX._RD_PUNC</Sentence> 
+
+ <Sentence id=391>હીરાના_N_NN શણગાર_N_NN ઝબૂકે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=392>જોગંદરની_N_NN ઝાળ_N_NN ઝબૂકે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=393>વીર_JJ તણી_PR_PRL ઝંઝાળ_N_NN ઝબૂકે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=394>ટમટમતી_JJ બે_QT_QTC જ્યોત_N_NN ઝબૂકે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=395>જડબાં_N_NN ફાડે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=396>ડુંગર_N_NN જાણે_V_VAUX ડાચાં_N_NN ફાડે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=397>જોગી_N_NN જાણે_V_VAUX ગુફા_N_NN ઉઘાડે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=398>જમરાજાનું_N_NNP દ્વાર_N_NN ઉઘાડે_V_VAUX._RD_PUNC</Sentence>
+ 
+ <Sentence id=399>પૃથ્વીનું_N_NNP પાતાળ_N_NN ઉઘાડે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=400>બરછી_JJ સરખા_N_NN દાંત_N_NN બતાવે_V_VAUX._RD_PUNC</Sentence> 
+ 
+<Sentence id=401> લસ_JJ લસ_JJ કરતા_V_VAUX જીભ_N_NN ઝુલાવે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=402>બ્હાદર_N_NN ઊઠે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=403>બડકંદાર_JJ બિરાદર_N_NN ઊઠે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=404>ફરસી_N_NN લેતો_V_VAUX ચારણ_N_NN ઉઠે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=405>ખડગ_JJ ખેંચતો_V_VAUX આહીર_N_NN ઊઠે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=406>બરછી_JJ ભાલે_N_NN કાઠી_N_NN ઊઠે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=407>ઘર_N_NN ઘરમાંથી_N_NN માટી_N_NN ઊઠે_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=408>ગોબો_JJ હાથ_N_NN રબારી_N_NNP ઊઠે_V_VAUX ._RD_PUNC</Sentence>
+ 
+<Sentence id=409> સોટો_N_NN લઈ_V_VM ઘરનારી_N_NN ઊઠે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=410> ગાય_N_NNP તણા_PSP રખવાળો_V_VAUX ઊઠે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=411> દૂધમલા_N_NN ગોવાળો_N_NN ઊઠે_V_VAUX._RD_PUNC</Sentence> 
+
+<Sentence id=412> મૂછે_N_NN વળ_N_NN દેનારા_V_VAUX ઊઠે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=413> ખોંખારો_N_NN ખાનારા_V_VAUX ઊઠે_V_VAUX ._RD_PUNC</Sentence>
+
+<Sentence id=414> માનું_N_NN દૂધ_N_NN પીનારા_V_VAUX ઊઠે_V_VAUX  ._RD_PUNC</Sentence>
+
+<Sentence id=415> જાણે_V_VAUX આભ_N_NN મિનારા_N_NN ઊઠે_V_VAUX._RD_PUNC</Sentence>  
+ 
+<Sentence id=416> ઊભો_V_VAUX રેજે_V_VAUX._RD_PUNC</Sentence> 
+ 
+ <Sentence id=417>ત્રાડ_N_NN પડી_V_VAUX કે_CC_CCS ઊભો_V_VAUX રેજે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=418>ગીરના_N_NN કુત્તા_N_NN ઊભો_V_VAUX રેજે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=419>કાયર_JJ દુત્તા_N_NN ઊભો_V_VAUX રેજે_V_VAUX ._RD_PUNC</Sentence> 
+ 
+ <Sentence id=420>પેટભરા_JJ  તું_PR_PRF ઊભો_V_VAUX રેજે_V_VAUX ._RD_PUNC</Sentence> 
+ 
+ <Sentence id=421>ભૂખમરા_JJ  તું_PR_PRF ઊભો_V_VAUX રેજે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=422>ચોર_N_NN લૂંટારા_N_NN ઊભો_V_VAUX રેજે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=423>ગાગોઝારા_N_NN ઊભો_V_VAUX રેજે_V_VAUX  ._RD_PUNC</Sentence>
+ 
+<Sentence id=424> ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+<Sentence id=425> ચૌદ_QT_QTC વરસની_N_NN ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+
+ <Sentence id=426>ચૂંદડીયાળી_N_NN ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ 
+ <Sentence id=427>શ્વેતસુંવાળી_JJ ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=428>બાળી_JJ ભોળી_JJ ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=429>લાલ_JJ હિંગોળી_JJ ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+<Sentence id=430> ઝાડ_N_NN ચડંતી_V_VAUX ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+
+ <Sentence id=431>પહાડ_N_NN ઘૂમંતી_V_VAUX ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=432>જોબનવંતી_JJ ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=433>આગ_N_NN ઝરંતી_V_VAUX ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=434>નેસ_N_NN નિવાસી_N_NN ચારણ_N_NN કન્યા_N_NN._RD_PUNC</Sentence> 
+ 
+ <Sentence id=435>જગદમ્બા_N_NNP શી_PR_PRL ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=436>ડાંગ_N_NN ઉઠાવે_V_VAUX ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=437>ત્રાડ_N_NN ગજાવે_V_VAUX ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=438>હાથ_N_NN હિલોળી_JJ ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=439>પાછળ_N_NST દોડી_V_VM ચારણ_N_NN કન્યા_N_NN ._RD_PUNC</Sentence>
+ 
+ <Sentence id=440>ભયથી_N_NN ભાગ્યો_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=441>સિંહણ_N_NNP તારો_PR_PRP ભડવીર_N_NN ભાગ્યો_V_VAUX._RD_PUNC</Sentence> 
+ 
+ <Sentence id=442>રણ_N_NN મેલીને_V_VM કાયર_JJ ભાગ્યો_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=443>ડુંગરનો_N_NN રમનારો_N_NN ભાગ્યો_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=444>હાથીનો_N_NNP હણનારો_N_NN ભાગ્યો_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=445>જોગીનાથ_N_NNP જટાળો_N_NN ભાગ્યો_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=446>મોટો_JJ વીર_JJ મૂછાળો_N_NN ભાગ્યો_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=447>નર_N_NN થઈ_V_VAUX તું_PR_PRL નારીથી_N_NN ભાગ્યો_V_VAUX ._RD_PUNC</Sentence>
+ 
+ <Sentence id=448>નાનકડી_JJ છોડીથી_N_NN ભાગ્યો_V_VAUX  ._RD_PUNC</Sentence>
+ 
+ <Sentence id=449> ઝવેરચંદ_N_NNP મેઘાણી_N_NNP"_RD_PUNC._RD_PUNC</Sentence>
+
+<Sentence id=450>ભાઈ_N_NN આમાં_PR_PRL અધૂરું_JJ છે _CC_CCD મેઘાણી_N_NNP બાપુએ_N_NN સિંહણને_N_NNP મારેલું_V_VAUX મેણું_JJ નથી_RP_NEG આમાં_PR_PRL._RD_PUNC</Sentence>
